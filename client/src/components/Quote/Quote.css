@@ -1,0 +1,10 @@
+.quote {
+  font-variant:normal;
+  color: white; 
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  text-align:center;
+ 
+}
+

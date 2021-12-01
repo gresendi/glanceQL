@@ -1,0 +1,15 @@
+.name {
+  font-variant: small-caps;
+  color: white;
+  font-size: 15px;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.bottomLeft {
+  padding-left:2rem;
+  padding-bottom:1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
